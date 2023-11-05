@@ -142,14 +142,14 @@ border-bottom: 1px solid #efefef;
 }
 
 .navbar ul > li.has-submenu > a {
-background-image: url("/nav/images/submenu-arrow.svg");
+background-image: url("/images/submenu-arrow.svg");
 background-position: right 20px center;
 background-repeat: no-repeat;
 background-size: 8px 14px;
 }
 
 .navbar ul > li.has-submenu > a:hover {
-background-image: url("/nav/images/submenu-arrow-active.svg");
+background-image: url("/images/submenu-arrow-active.svg");
 }
 
 /* navbarjs submenu styles */
@@ -161,7 +161,7 @@ left: 295px;
 }
 
 .navbar .submenu-header {
-background-image: url("/nav/images/menu-back.svg");
+background-image: url("/images/menu-back.svg");
 background-position: left 20px center;
 background-repeat: no-repeat;
 background-size: 8px 14px;
@@ -181,7 +181,7 @@ text-decoration: none;
 }
 
 .navbar .submenu-header > a:before {
-background-image: url("/nav/images/submenu-arrow.svg");
+background-image: url("/images/submenu-arrow.svg");
 background-position: right 20px center;
 background-repeat: no-repeat;
 background-size: 8px 14px;
